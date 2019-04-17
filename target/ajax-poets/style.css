@@ -1,0 +1,15 @@
+.error {
+    color: red;
+}
+
+.info {
+    color: blue;
+}
+
+.hidden {
+    display: none;
+}
+
+.content {
+    width: 50%;
+}
